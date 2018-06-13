@@ -1,0 +1,2 @@
+# LOlL
+pkg install git
